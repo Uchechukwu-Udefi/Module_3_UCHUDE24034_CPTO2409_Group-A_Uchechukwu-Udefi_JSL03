@@ -1,6 +1,6 @@
 # [JSL03] Project Submission: Which one is which? Declarative or Imperative?!
 
-Loom Recording Link: [Insert Link]
+Loom Recording Link: [https://www.loom.com/share/504190c3c98d4f999c569a7a8452a363]
 
 # Project Overview
 
@@ -59,7 +59,7 @@ Follow the steps outlined above to complete the project successfully.
 
 # Presentation Talking Points
 
-Example #: [Insert Example Number]
+Example #: [Example_2]
 
 ## Imperative Approach [2 Minutes]
 1. **Step-by-Step Explanation:** Start by explaining the code logic in the imperative approach.
@@ -72,7 +72,7 @@ Example #: [Insert Example Number]
    - Discuss any mutable variables or states that change during execution.
 
 
-Example #: [Insert Example Number]
+Example #: [Example_1]
 
 ## Declarative Approach [2 Minutes]
 1. **High-Level Process Description:** Explain the code logic in the declarative approach.
