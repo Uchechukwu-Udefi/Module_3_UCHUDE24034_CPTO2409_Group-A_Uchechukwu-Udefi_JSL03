@@ -1,6 +1,6 @@
 # [JSL03] Project Submission: Which one is which? Declarative or Imperative?!
 
-Loom Recording Link: https://www.loom.com/share/8f5c74ff7803485c90ff9913be4d419c
+Loom Recording Link: https://www.loom.com/share/69abf69aef53450799c9ad5bb7ed9a6b
 
 # Project Overview
 
